@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+catboost_info/
+test_run/
+*.egg-info/
+dist/
+build/
+.DS_Store
